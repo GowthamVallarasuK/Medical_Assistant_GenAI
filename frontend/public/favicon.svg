@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Background circle -->
+  <circle cx="50" cy="50" r="50" fill="#2563eb"/>
+  <!-- Stethoscope tubing -->
+  <path d="M28 22 Q28 48 50 48 Q72 48 72 22" fill="none" stroke="white" stroke-width="7" stroke-linecap="round"/>
+  <!-- Left earpiece -->
+  <circle cx="28" cy="20" r="5" fill="white"/>
+  <!-- Right earpiece -->
+  <circle cx="72" cy="20" r="5" fill="white"/>
+  <!-- Chest piece tube going down -->
+  <line x1="50" y1="48" x2="50" y2="68" stroke="white" stroke-width="7" stroke-linecap="round"/>
+  <!-- Chest piece (diaphragm) -->
+  <circle cx="50" cy="76" r="10" fill="white"/>
+  <circle cx="50" cy="76" r="6" fill="#2563eb"/>
+</svg>
