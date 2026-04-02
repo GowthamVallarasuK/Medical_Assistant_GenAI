@@ -1,0 +1,86 @@
+version: '3.8'
+
+services:
+  # MongoDB Database
+  mongodb:
+    image: mongo:6.0
+    container_name: medical_diagnosis_db
+    ports:
+      - "27017:27017"
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: admin
+      MONGO_INITDB_ROOT_PASSWORD: password123
+      MONGO_INITDB_DATABASE: medical_diagnosis
+    volumes:
+      - mongodb_data:/data/db
+      - ./database/init-mongo.js:/docker-entrypoint-initdb.d/init-mongo.js:ro
+    networks:
+      - medical_network
+
+  # Backend API
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: medical_diagnosis_backend
+    ports:
+      - "5000:5000"
+    environment:
+      NODE_ENV: development
+      MONGODB_URI: mongodb://admin:password123@mongodb:27017/medical_diagnosis?authSource=admin
+      JWT_SECRET: your_jwt_secret_key_here
+      OPENAI_API_KEY: your_openai_api_key_here
+    depends_on:
+      - mongodb
+    volumes:
+      - ./backend:/app
+      - /app/node_modules
+    networks:
+      - medical_network
+
+  # AI Services (Multi-Agent System)
+  ai-services:
+    build:
+      context: ./ai-services
+      dockerfile: Dockerfile
+    container_name: medical_diagnosis_ai
+    ports:
+      - "8000:8000"
+    environment:
+      PYTHONPATH: /app
+      OPENAI_API_KEY: your_openai_api_key_here
+      MONGODB_URI: mongodb://admin:password123@mongodb:27017/medical_diagnosis?authSource=admin
+    depends_on:
+      - mongodb
+    volumes:
+      - ./ai-services:/app
+      - ./ai-services/models:/app/models
+    networks:
+      - medical_network
+
+  # Frontend
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: medical_diagnosis_frontend
+    ports:
+      - "3000:3000"
+    environment:
+      VITE_API_URL: http://localhost:5000
+      VITE_AI_API_URL: http://localhost:8000
+    depends_on:
+      - backend
+      - ai-services
+    volumes:
+      - ./frontend:/app
+      - /app/node_modules
+    networks:
+      - medical_network
+
+volumes:
+  mongodb_data:
+
+networks:
+  medical_network:
+    driver: bridge

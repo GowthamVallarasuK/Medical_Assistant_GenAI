@@ -1,0 +1,936 @@
+{
+  message: {
+    error: 'secretOrPrivateKey must have a value',
+    stack: 'Error: secretOrPrivateKey must have a value\n' +
+      '    at module.exports [as sign] (D:\\Gen_AI_Project\\backend\\node_modules\\jsonwebtoken\\sign.js:111:20)\n' +
+      '    at generateToken (D:\\Gen_AI_Project\\backend\\middleware\\auth.js:154:14)\n' +
+      '    at D:\\Gen_AI_Project\\backend\\routes\\auth.js:92:17\n' +
+      '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)',
+    url: '/api/auth/register',
+    method: 'POST',
+    ip: '::1',
+    userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0',
+    user: 'anonymous'
+  },
+  level: 'error',
+  service: 'medical-diagnosis-api',
+  timestamp: '2026-04-02 10:26:37'
+}
+{
+  service: 'medical-diagnosis-api',
+  statusCode: 500,
+  status: 'error',
+  message: 'ERROR 💥 secretOrPrivateKey must have a value',
+  level: 'error',
+  timestamp: '2026-04-02 10:26:37'
+}
+{
+  message: {
+    error: 'User with this email already exists',
+    stack: 'Error: User with this email already exists\n' +
+      '    at D:\\Gen_AI_Project\\backend\\routes\\auth.js:78:11\n' +
+      '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)',
+    url: '/api/auth/register',
+    method: 'POST',
+    ip: '::1',
+    userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0',
+    user: 'anonymous'
+  },
+  level: 'error',
+  service: 'medical-diagnosis-api',
+  timestamp: '2026-04-02 10:28:11'
+}
+{
+  message: {
+    error: 'User with this email already exists',
+    stack: 'Error: User with this email already exists\n' +
+      '    at D:\\Gen_AI_Project\\backend\\routes\\auth.js:78:11\n' +
+      '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)',
+    url: '/api/auth/register',
+    method: 'POST',
+    ip: '::1',
+    userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0',
+    user: 'anonymous'
+  },
+  level: 'error',
+  service: 'medical-diagnosis-api',
+  timestamp: '2026-04-02 10:28:12'
+}
+{
+  message: {
+    error: 'secretOrPrivateKey must have a value',
+    stack: 'Error: secretOrPrivateKey must have a value\n' +
+      '    at module.exports [as sign] (D:\\Gen_AI_Project\\backend\\node_modules\\jsonwebtoken\\sign.js:111:20)\n' +
+      '    at generateToken (D:\\Gen_AI_Project\\backend\\middleware\\auth.js:154:14)\n' +
+      '    at D:\\Gen_AI_Project\\backend\\routes\\auth.js:145:17\n' +
+      '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)',
+    url: '/api/auth/login',
+    method: 'POST',
+    ip: '::1',
+    userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0',
+    user: 'anonymous'
+  },
+  level: 'error',
+  service: 'medical-diagnosis-api',
+  timestamp: '2026-04-02 10:28:32'
+}
+{
+  service: 'medical-diagnosis-api',
+  statusCode: 500,
+  status: 'error',
+  message: 'ERROR 💥 secretOrPrivateKey must have a value',
+  level: 'error',
+  timestamp: '2026-04-02 10:28:32'
+}
+{
+  message: {
+    error: 'secretOrPrivateKey must have a value',
+    stack: 'Error: secretOrPrivateKey must have a value\n' +
+      '    at module.exports [as sign] (D:\\Gen_AI_Project\\backend\\node_modules\\jsonwebtoken\\sign.js:111:20)\n' +
+      '    at generateToken (D:\\Gen_AI_Project\\backend\\middleware\\auth.js:154:14)\n' +
+      '    at D:\\Gen_AI_Project\\backend\\routes\\auth.js:92:17\n' +
+      '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)',
+    url: '/api/auth/register',
+    method: 'POST',
+    ip: '::1',
+    userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0',
+    user: 'anonymous'
+  },
+  level: 'error',
+  service: 'medical-diagnosis-api',
+  timestamp: '2026-04-02 10:29:01'
+}
+{
+  service: 'medical-diagnosis-api',
+  statusCode: 500,
+  status: 'error',
+  message: 'ERROR 💥 secretOrPrivateKey must have a value',
+  level: 'error',
+  timestamp: '2026-04-02 10:29:01'
+}
+{
+  message: {
+    error: 'User with this email already exists',
+    stack: 'Error: User with this email already exists\n' +
+      '    at D:\\Gen_AI_Project\\backend\\routes\\auth.js:82:13\n' +
+      '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)',
+    url: '/api/auth/register',
+    method: 'POST',
+    ip: '::1',
+    userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0',
+    user: 'anonymous'
+  },
+  level: 'error',
+  service: 'medical-diagnosis-api',
+  timestamp: '2026-04-02 10:31:59'
+}
+{
+  service: 'medical-diagnosis-api',
+  name: 'JsonWebTokenError',
+  message: 'Authentication error: jwt malformed',
+  level: 'error',
+  stack: 'JsonWebTokenError: jwt malformed\n' +
+    '    at module.exports [as verify] (D:\\Gen_AI_Project\\backend\\node_modules\\jsonwebtoken\\verify.js:70:17)\n' +
+    '    at authenticate (D:\\Gen_AI_Project\\backend\\middleware\\auth.js:21:25)\n' +
+    '    at Layer.handle [as handle_request] (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n' +
+    '    at trim_prefix (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:328:13)\n' +
+    '    at D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:286:9\n' +
+    '    at Function.process_params (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:346:12)\n' +
+    '    at next (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:280:10)\n' +
+    '    at Function.handle (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:175:3)\n' +
+    '    at router (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:47:12)\n' +
+    '    at Layer.handle [as handle_request] (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)',
+  timestamp: '2026-04-02 10:32:12'
+}
+{
+  service: 'medical-diagnosis-api',
+  name: 'JsonWebTokenError',
+  message: 'Authentication error: jwt malformed',
+  level: 'error',
+  stack: 'JsonWebTokenError: jwt malformed\n' +
+    '    at module.exports [as verify] (D:\\Gen_AI_Project\\backend\\node_modules\\jsonwebtoken\\verify.js:70:17)\n' +
+    '    at authenticate (D:\\Gen_AI_Project\\backend\\middleware\\auth.js:21:25)\n' +
+    '    at Layer.handle [as handle_request] (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n' +
+    '    at trim_prefix (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:328:13)\n' +
+    '    at D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:286:9\n' +
+    '    at Function.process_params (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:346:12)\n' +
+    '    at next (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:280:10)\n' +
+    '    at Function.handle (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:175:3)\n' +
+    '    at router (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:47:12)\n' +
+    '    at Layer.handle [as handle_request] (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)',
+  timestamp: '2026-04-02 10:32:12'
+}
+{
+  service: 'medical-diagnosis-api',
+  name: 'JsonWebTokenError',
+  message: 'Authentication error: jwt malformed',
+  level: 'error',
+  stack: 'JsonWebTokenError: jwt malformed\n' +
+    '    at module.exports [as verify] (D:\\Gen_AI_Project\\backend\\node_modules\\jsonwebtoken\\verify.js:70:17)\n' +
+    '    at authenticate (D:\\Gen_AI_Project\\backend\\middleware\\auth.js:21:25)\n' +
+    '    at Layer.handle [as handle_request] (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n' +
+    '    at trim_prefix (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:328:13)\n' +
+    '    at D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:286:9\n' +
+    '    at Function.process_params (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:346:12)\n' +
+    '    at next (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:280:10)\n' +
+    '    at Function.handle (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:175:3)\n' +
+    '    at router (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:47:12)\n' +
+    '    at Layer.handle [as handle_request] (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)',
+  timestamp: '2026-04-02 10:34:50'
+}
+{
+  service: 'medical-diagnosis-api',
+  name: 'JsonWebTokenError',
+  message: 'Authentication error: jwt malformed',
+  level: 'error',
+  stack: 'JsonWebTokenError: jwt malformed\n' +
+    '    at module.exports [as verify] (D:\\Gen_AI_Project\\backend\\node_modules\\jsonwebtoken\\verify.js:70:17)\n' +
+    '    at authenticate (D:\\Gen_AI_Project\\backend\\middleware\\auth.js:21:25)\n' +
+    '    at Layer.handle [as handle_request] (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n' +
+    '    at trim_prefix (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:328:13)\n' +
+    '    at D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:286:9\n' +
+    '    at Function.process_params (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:346:12)\n' +
+    '    at next (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:280:10)\n' +
+    '    at Function.handle (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:175:3)\n' +
+    '    at router (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:47:12)\n' +
+    '    at Layer.handle [as handle_request] (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)',
+  timestamp: '2026-04-02 10:34:50'
+}
+{
+  message: {
+    error: "Cannot read properties of undefined (reading 'getPublicProfile')",
+    stack: "TypeError: Cannot read properties of undefined (reading 'getPublicProfile')\n" +
+      '    at D:\\Gen_AI_Project\\backend\\routes\\auth.js:203:22\n' +
+      '    at D:\\Gen_AI_Project\\backend\\middleware\\errorHandler.js:182:5\n' +
+      '    at Layer.handle [as handle_request] (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n' +
+      '    at next (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\route.js:149:13)\n' +
+      '    at Route.dispatch (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\route.js:119:3)\n' +
+      '    at Layer.handle [as handle_request] (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n' +
+      '    at D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:284:15\n' +
+      '    at Function.process_params (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:346:12)\n' +
+      '    at next (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:280:10)\n' +
+      '    at Function.handle (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:175:3)',
+    url: '/api/auth/verify',
+    method: 'GET',
+    ip: '::1',
+    userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0',
+    user: 'anonymous'
+  },
+  level: 'error',
+  service: 'medical-diagnosis-api',
+  timestamp: '2026-04-02 10:37:13'
+}
+{
+  message: {
+    error: "Cannot read properties of undefined (reading 'getPublicProfile')",
+    stack: "TypeError: Cannot read properties of undefined (reading 'getPublicProfile')\n" +
+      '    at D:\\Gen_AI_Project\\backend\\routes\\auth.js:203:22\n' +
+      '    at D:\\Gen_AI_Project\\backend\\middleware\\errorHandler.js:182:5\n' +
+      '    at Layer.handle [as handle_request] (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n' +
+      '    at next (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\route.js:149:13)\n' +
+      '    at Route.dispatch (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\route.js:119:3)\n' +
+      '    at Layer.handle [as handle_request] (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n' +
+      '    at D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:284:15\n' +
+      '    at Function.process_params (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:346:12)\n' +
+      '    at next (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:280:10)\n' +
+      '    at Function.handle (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:175:3)',
+    url: '/api/auth/verify',
+    method: 'GET',
+    ip: '::1',
+    userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0',
+    user: 'anonymous'
+  },
+  level: 'error',
+  service: 'medical-diagnosis-api',
+  timestamp: '2026-04-02 10:37:13'
+}
+{
+  service: 'medical-diagnosis-api',
+  name: 'JsonWebTokenError',
+  message: 'Authentication error: jwt malformed',
+  level: 'error',
+  stack: 'JsonWebTokenError: jwt malformed\n' +
+    '    at module.exports [as verify] (D:\\Gen_AI_Project\\backend\\node_modules\\jsonwebtoken\\verify.js:70:17)\n' +
+    '    at authenticate (D:\\Gen_AI_Project\\backend\\middleware\\auth.js:21:25)\n' +
+    '    at Layer.handle [as handle_request] (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n' +
+    '    at trim_prefix (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:328:13)\n' +
+    '    at D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:286:9\n' +
+    '    at Function.process_params (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:346:12)\n' +
+    '    at next (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:280:10)\n' +
+    '    at Function.handle (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:175:3)\n' +
+    '    at router (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:47:12)\n' +
+    '    at Layer.handle [as handle_request] (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)',
+  timestamp: '2026-04-02 10:45:22'
+}
+{
+  service: 'medical-diagnosis-api',
+  name: 'JsonWebTokenError',
+  message: 'Authentication error: jwt malformed',
+  level: 'error',
+  stack: 'JsonWebTokenError: jwt malformed\n' +
+    '    at module.exports [as verify] (D:\\Gen_AI_Project\\backend\\node_modules\\jsonwebtoken\\verify.js:70:17)\n' +
+    '    at authenticate (D:\\Gen_AI_Project\\backend\\middleware\\auth.js:21:25)\n' +
+    '    at Layer.handle [as handle_request] (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n' +
+    '    at trim_prefix (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:328:13)\n' +
+    '    at D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:286:9\n' +
+    '    at Function.process_params (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:346:12)\n' +
+    '    at next (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:280:10)\n' +
+    '    at Function.handle (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:175:3)\n' +
+    '    at router (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:47:12)\n' +
+    '    at Layer.handle [as handle_request] (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)',
+  timestamp: '2026-04-02 10:45:22'
+}
+{
+  service: 'medical-diagnosis-api',
+  name: 'JsonWebTokenError',
+  message: 'Authentication error: jwt malformed',
+  level: 'error',
+  stack: 'JsonWebTokenError: jwt malformed\n' +
+    '    at module.exports [as verify] (D:\\Gen_AI_Project\\backend\\node_modules\\jsonwebtoken\\verify.js:70:17)\n' +
+    '    at authenticate (D:\\Gen_AI_Project\\backend\\middleware\\auth.js:21:25)\n' +
+    '    at Layer.handle [as handle_request] (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n' +
+    '    at trim_prefix (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:328:13)\n' +
+    '    at D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:286:9\n' +
+    '    at Function.process_params (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:346:12)\n' +
+    '    at next (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:280:10)\n' +
+    '    at Function.handle (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:175:3)\n' +
+    '    at router (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:47:12)\n' +
+    '    at Layer.handle [as handle_request] (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)',
+  timestamp: '2026-04-02 10:45:34'
+}
+{
+  service: 'medical-diagnosis-api',
+  name: 'JsonWebTokenError',
+  message: 'Authentication error: jwt malformed',
+  level: 'error',
+  stack: 'JsonWebTokenError: jwt malformed\n' +
+    '    at module.exports [as verify] (D:\\Gen_AI_Project\\backend\\node_modules\\jsonwebtoken\\verify.js:70:17)\n' +
+    '    at authenticate (D:\\Gen_AI_Project\\backend\\middleware\\auth.js:21:25)\n' +
+    '    at Layer.handle [as handle_request] (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n' +
+    '    at trim_prefix (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:328:13)\n' +
+    '    at D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:286:9\n' +
+    '    at Function.process_params (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:346:12)\n' +
+    '    at next (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:280:10)\n' +
+    '    at Function.handle (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:175:3)\n' +
+    '    at router (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:47:12)\n' +
+    '    at Layer.handle [as handle_request] (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)',
+  timestamp: '2026-04-02 10:45:35'
+}
+{
+  message: {
+    error: "Cannot read properties of undefined (reading 'getPublicProfile')",
+    stack: "TypeError: Cannot read properties of undefined (reading 'getPublicProfile')\n" +
+      '    at D:\\Gen_AI_Project\\backend\\routes\\auth.js:203:22\n' +
+      '    at D:\\Gen_AI_Project\\backend\\middleware\\errorHandler.js:182:5\n' +
+      '    at Layer.handle [as handle_request] (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n' +
+      '    at next (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\route.js:149:13)\n' +
+      '    at Route.dispatch (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\route.js:119:3)\n' +
+      '    at Layer.handle [as handle_request] (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n' +
+      '    at D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:284:15\n' +
+      '    at Function.process_params (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:346:12)\n' +
+      '    at next (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:280:10)\n' +
+      '    at Function.handle (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:175:3)',
+    url: '/api/auth/verify',
+    method: 'GET',
+    ip: '::1',
+    userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0',
+    user: 'anonymous'
+  },
+  level: 'error',
+  service: 'medical-diagnosis-api',
+  timestamp: '2026-04-02 10:54:21'
+}
+{
+  message: {
+    error: "Cannot read properties of undefined (reading 'getPublicProfile')",
+    stack: "TypeError: Cannot read properties of undefined (reading 'getPublicProfile')\n" +
+      '    at D:\\Gen_AI_Project\\backend\\routes\\auth.js:203:22\n' +
+      '    at D:\\Gen_AI_Project\\backend\\middleware\\errorHandler.js:182:5\n' +
+      '    at Layer.handle [as handle_request] (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n' +
+      '    at next (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\route.js:149:13)\n' +
+      '    at Route.dispatch (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\route.js:119:3)\n' +
+      '    at Layer.handle [as handle_request] (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n' +
+      '    at D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:284:15\n' +
+      '    at Function.process_params (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:346:12)\n' +
+      '    at next (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:280:10)\n' +
+      '    at Function.handle (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:175:3)',
+    url: '/api/auth/verify',
+    method: 'GET',
+    ip: '::1',
+    userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0',
+    user: 'anonymous'
+  },
+  level: 'error',
+  service: 'medical-diagnosis-api',
+  timestamp: '2026-04-02 10:54:21'
+}
+{
+  service: 'medical-diagnosis-api',
+  name: 'JsonWebTokenError',
+  message: 'Authentication error: jwt malformed',
+  level: 'error',
+  stack: 'JsonWebTokenError: jwt malformed\n' +
+    '    at module.exports [as verify] (D:\\Gen_AI_Project\\backend\\node_modules\\jsonwebtoken\\verify.js:70:17)\n' +
+    '    at authenticate (D:\\Gen_AI_Project\\backend\\middleware\\auth.js:22:25)\n' +
+    '    at Layer.handle [as handle_request] (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n' +
+    '    at trim_prefix (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:328:13)\n' +
+    '    at D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:286:9\n' +
+    '    at Function.process_params (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:346:12)\n' +
+    '    at next (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:280:10)\n' +
+    '    at Function.handle (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:175:3)\n' +
+    '    at router (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:47:12)\n' +
+    '    at Layer.handle [as handle_request] (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)',
+  timestamp: '2026-04-02 11:05:17'
+}
+{
+  message: {
+    error: "Cannot read properties of undefined (reading 'getPublicProfile')",
+    stack: "TypeError: Cannot read properties of undefined (reading 'getPublicProfile')\n" +
+      '    at D:\\Gen_AI_Project\\backend\\routes\\auth.js:203:22\n' +
+      '    at D:\\Gen_AI_Project\\backend\\middleware\\errorHandler.js:182:5\n' +
+      '    at Layer.handle [as handle_request] (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n' +
+      '    at next (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\route.js:149:13)\n' +
+      '    at Route.dispatch (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\route.js:119:3)\n' +
+      '    at Layer.handle [as handle_request] (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n' +
+      '    at D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:284:15\n' +
+      '    at Function.process_params (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:346:12)\n' +
+      '    at next (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:280:10)\n' +
+      '    at Function.handle (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:175:3)',
+    url: '/api/auth/verify',
+    method: 'GET',
+    ip: '::1',
+    userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0',
+    user: 'anonymous'
+  },
+  level: 'error',
+  service: 'medical-diagnosis-api',
+  timestamp: '2026-04-02 11:07:18'
+}
+{
+  message: {
+    error: "Cannot read properties of undefined (reading 'getPublicProfile')",
+    stack: "TypeError: Cannot read properties of undefined (reading 'getPublicProfile')\n" +
+      '    at D:\\Gen_AI_Project\\backend\\routes\\auth.js:203:22\n' +
+      '    at D:\\Gen_AI_Project\\backend\\middleware\\errorHandler.js:182:5\n' +
+      '    at Layer.handle [as handle_request] (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n' +
+      '    at next (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\route.js:149:13)\n' +
+      '    at Route.dispatch (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\route.js:119:3)\n' +
+      '    at Layer.handle [as handle_request] (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n' +
+      '    at D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:284:15\n' +
+      '    at Function.process_params (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:346:12)\n' +
+      '    at next (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:280:10)\n' +
+      '    at Function.handle (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:175:3)',
+    url: '/api/auth/verify',
+    method: 'GET',
+    ip: '::1',
+    userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0',
+    user: 'anonymous'
+  },
+  level: 'error',
+  service: 'medical-diagnosis-api',
+  timestamp: '2026-04-02 11:07:18'
+}
+{
+  service: 'medical-diagnosis-api',
+  name: 'JsonWebTokenError',
+  message: 'Authentication error: jwt malformed',
+  level: 'error',
+  stack: 'JsonWebTokenError: jwt malformed\n' +
+    '    at module.exports [as verify] (D:\\Gen_AI_Project\\backend\\node_modules\\jsonwebtoken\\verify.js:70:17)\n' +
+    '    at authenticate (D:\\Gen_AI_Project\\backend\\middleware\\auth.js:22:25)\n' +
+    '    at Layer.handle [as handle_request] (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n' +
+    '    at trim_prefix (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:328:13)\n' +
+    '    at D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:286:9\n' +
+    '    at Function.process_params (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:346:12)\n' +
+    '    at next (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:280:10)\n' +
+    '    at Function.handle (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:175:3)\n' +
+    '    at router (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:47:12)\n' +
+    '    at Layer.handle [as handle_request] (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)',
+  timestamp: '2026-04-02 11:07:43'
+}
+{
+  message: {
+    error: "Cannot read properties of undefined (reading 'getPublicProfile')",
+    stack: "TypeError: Cannot read properties of undefined (reading 'getPublicProfile')\n" +
+      '    at D:\\Gen_AI_Project\\backend\\routes\\auth.js:203:22\n' +
+      '    at D:\\Gen_AI_Project\\backend\\middleware\\errorHandler.js:182:5\n' +
+      '    at Layer.handle [as handle_request] (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n' +
+      '    at next (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\route.js:149:13)\n' +
+      '    at Route.dispatch (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\route.js:119:3)\n' +
+      '    at Layer.handle [as handle_request] (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n' +
+      '    at D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:284:15\n' +
+      '    at Function.process_params (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:346:12)\n' +
+      '    at next (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:280:10)\n' +
+      '    at Function.handle (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:175:3)',
+    url: '/api/auth/verify',
+    method: 'GET',
+    ip: '::1',
+    userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0',
+    user: 'anonymous'
+  },
+  level: 'error',
+  service: 'medical-diagnosis-api',
+  timestamp: '2026-04-02 11:07:56'
+}
+{
+  message: {
+    error: "Cannot read properties of undefined (reading 'getPublicProfile')",
+    stack: "TypeError: Cannot read properties of undefined (reading 'getPublicProfile')\n" +
+      '    at D:\\Gen_AI_Project\\backend\\routes\\auth.js:203:22\n' +
+      '    at D:\\Gen_AI_Project\\backend\\middleware\\errorHandler.js:182:5\n' +
+      '    at Layer.handle [as handle_request] (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n' +
+      '    at next (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\route.js:149:13)\n' +
+      '    at Route.dispatch (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\route.js:119:3)\n' +
+      '    at Layer.handle [as handle_request] (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n' +
+      '    at D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:284:15\n' +
+      '    at Function.process_params (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:346:12)\n' +
+      '    at next (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:280:10)\n' +
+      '    at Function.handle (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:175:3)',
+    url: '/api/auth/verify',
+    method: 'GET',
+    ip: '::1',
+    userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0',
+    user: 'anonymous'
+  },
+  level: 'error',
+  service: 'medical-diagnosis-api',
+  timestamp: '2026-04-02 11:07:56'
+}
+{
+  service: 'medical-diagnosis-api',
+  name: 'JsonWebTokenError',
+  message: 'Authentication error: jwt malformed',
+  level: 'error',
+  stack: 'JsonWebTokenError: jwt malformed\n' +
+    '    at module.exports [as verify] (D:\\Gen_AI_Project\\backend\\node_modules\\jsonwebtoken\\verify.js:70:17)\n' +
+    '    at authenticate (D:\\Gen_AI_Project\\backend\\middleware\\auth.js:22:25)\n' +
+    '    at Layer.handle [as handle_request] (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n' +
+    '    at trim_prefix (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:328:13)\n' +
+    '    at D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:286:9\n' +
+    '    at Function.process_params (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:346:12)\n' +
+    '    at next (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:280:10)\n' +
+    '    at Function.handle (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:175:3)\n' +
+    '    at router (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:47:12)\n' +
+    '    at Layer.handle [as handle_request] (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)',
+  timestamp: '2026-04-02 11:08:11'
+}
+{
+  service: 'medical-diagnosis-api',
+  name: 'JsonWebTokenError',
+  message: 'Authentication error: jwt malformed',
+  level: 'error',
+  stack: 'JsonWebTokenError: jwt malformed\n' +
+    '    at module.exports [as verify] (D:\\Gen_AI_Project\\backend\\node_modules\\jsonwebtoken\\verify.js:70:17)\n' +
+    '    at authenticate (D:\\Gen_AI_Project\\backend\\middleware\\auth.js:22:25)\n' +
+    '    at Layer.handle [as handle_request] (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n' +
+    '    at trim_prefix (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:328:13)\n' +
+    '    at D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:286:9\n' +
+    '    at Function.process_params (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:346:12)\n' +
+    '    at next (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:280:10)\n' +
+    '    at Function.handle (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:175:3)\n' +
+    '    at router (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:47:12)\n' +
+    '    at Layer.handle [as handle_request] (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)',
+  timestamp: '2026-04-02 11:11:21'
+}
+{
+  message: {
+    error: "Cannot read properties of undefined (reading 'getPublicProfile')",
+    stack: "TypeError: Cannot read properties of undefined (reading 'getPublicProfile')\n" +
+      '    at D:\\Gen_AI_Project\\backend\\routes\\auth.js:203:22\n' +
+      '    at D:\\Gen_AI_Project\\backend\\middleware\\errorHandler.js:182:5\n' +
+      '    at Layer.handle [as handle_request] (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n' +
+      '    at next (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\route.js:149:13)\n' +
+      '    at Route.dispatch (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\route.js:119:3)\n' +
+      '    at Layer.handle [as handle_request] (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n' +
+      '    at D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:284:15\n' +
+      '    at Function.process_params (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:346:12)\n' +
+      '    at next (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:280:10)\n' +
+      '    at Function.handle (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:175:3)',
+    url: '/api/auth/verify',
+    method: 'GET',
+    ip: '::1',
+    userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0',
+    user: 'anonymous'
+  },
+  level: 'error',
+  service: 'medical-diagnosis-api',
+  timestamp: '2026-04-02 11:16:30'
+}
+{
+  service: 'medical-diagnosis-api',
+  name: 'JsonWebTokenError',
+  message: 'Authentication error: jwt malformed',
+  level: 'error',
+  stack: 'JsonWebTokenError: jwt malformed\n' +
+    '    at module.exports [as verify] (D:\\Gen_AI_Project\\backend\\node_modules\\jsonwebtoken\\verify.js:70:17)\n' +
+    '    at authenticate (D:\\Gen_AI_Project\\backend\\middleware\\auth.js:22:25)\n' +
+    '    at Layer.handle [as handle_request] (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n' +
+    '    at trim_prefix (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:328:13)\n' +
+    '    at D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:286:9\n' +
+    '    at Function.process_params (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:346:12)\n' +
+    '    at next (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:280:10)\n' +
+    '    at Function.handle (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:175:3)\n' +
+    '    at router (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:47:12)\n' +
+    '    at Layer.handle [as handle_request] (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)',
+  timestamp: '2026-04-02 11:17:07'
+}
+{
+  service: 'medical-diagnosis-api',
+  name: 'JsonWebTokenError',
+  message: 'Authentication error: jwt malformed',
+  level: 'error',
+  stack: 'JsonWebTokenError: jwt malformed\n' +
+    '    at module.exports [as verify] (D:\\Gen_AI_Project\\backend\\node_modules\\jsonwebtoken\\verify.js:70:17)\n' +
+    '    at authenticate (D:\\Gen_AI_Project\\backend\\middleware\\auth.js:22:25)\n' +
+    '    at Layer.handle [as handle_request] (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n' +
+    '    at trim_prefix (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:328:13)\n' +
+    '    at D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:286:9\n' +
+    '    at Function.process_params (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:346:12)\n' +
+    '    at next (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:280:10)\n' +
+    '    at Function.handle (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:175:3)\n' +
+    '    at router (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:47:12)\n' +
+    '    at Layer.handle [as handle_request] (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)',
+  timestamp: '2026-04-02 11:17:07'
+}
+{
+  service: 'medical-diagnosis-api',
+  name: 'JsonWebTokenError',
+  message: 'Authentication error: jwt malformed',
+  level: 'error',
+  stack: 'JsonWebTokenError: jwt malformed\n' +
+    '    at module.exports [as verify] (D:\\Gen_AI_Project\\backend\\node_modules\\jsonwebtoken\\verify.js:70:17)\n' +
+    '    at authenticate (D:\\Gen_AI_Project\\backend\\middleware\\auth.js:22:25)\n' +
+    '    at Layer.handle [as handle_request] (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n' +
+    '    at trim_prefix (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:328:13)\n' +
+    '    at D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:286:9\n' +
+    '    at Function.process_params (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:346:12)\n' +
+    '    at next (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:280:10)\n' +
+    '    at Function.handle (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:175:3)\n' +
+    '    at router (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:47:12)\n' +
+    '    at Layer.handle [as handle_request] (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)',
+  timestamp: '2026-04-02 11:17:18'
+}
+{
+  message: {
+    error: "Cannot read properties of undefined (reading 'getPublicProfile')",
+    stack: "TypeError: Cannot read properties of undefined (reading 'getPublicProfile')\n" +
+      '    at D:\\Gen_AI_Project\\backend\\routes\\auth.js:203:22\n' +
+      '    at D:\\Gen_AI_Project\\backend\\middleware\\errorHandler.js:182:5\n' +
+      '    at Layer.handle [as handle_request] (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n' +
+      '    at next (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\route.js:149:13)\n' +
+      '    at Route.dispatch (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\route.js:119:3)\n' +
+      '    at Layer.handle [as handle_request] (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n' +
+      '    at D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:284:15\n' +
+      '    at Function.process_params (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:346:12)\n' +
+      '    at next (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:280:10)\n' +
+      '    at Function.handle (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:175:3)',
+    url: '/api/auth/verify',
+    method: 'GET',
+    ip: '::1',
+    userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0',
+    user: 'anonymous'
+  },
+  level: 'error',
+  service: 'medical-diagnosis-api',
+  timestamp: '2026-04-02 11:47:37'
+}
+{
+  message: {
+    error: "Cannot read properties of undefined (reading 'getPublicProfile')",
+    stack: "TypeError: Cannot read properties of undefined (reading 'getPublicProfile')\n" +
+      '    at D:\\Gen_AI_Project\\backend\\routes\\auth.js:203:22\n' +
+      '    at D:\\Gen_AI_Project\\backend\\middleware\\errorHandler.js:182:5\n' +
+      '    at Layer.handle [as handle_request] (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n' +
+      '    at next (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\route.js:149:13)\n' +
+      '    at Route.dispatch (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\route.js:119:3)\n' +
+      '    at Layer.handle [as handle_request] (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n' +
+      '    at D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:284:15\n' +
+      '    at Function.process_params (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:346:12)\n' +
+      '    at next (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:280:10)\n' +
+      '    at Function.handle (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:175:3)',
+    url: '/api/auth/verify',
+    method: 'GET',
+    ip: '::1',
+    userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0',
+    user: 'anonymous'
+  },
+  level: 'error',
+  service: 'medical-diagnosis-api',
+  timestamp: '2026-04-02 11:47:37'
+}
+{
+  service: 'medical-diagnosis-api',
+  name: 'JsonWebTokenError',
+  message: 'Authentication error: jwt malformed',
+  level: 'error',
+  stack: 'JsonWebTokenError: jwt malformed\n' +
+    '    at module.exports [as verify] (D:\\Gen_AI_Project\\backend\\node_modules\\jsonwebtoken\\verify.js:70:17)\n' +
+    '    at authenticate (D:\\Gen_AI_Project\\backend\\middleware\\auth.js:21:25)\n' +
+    '    at Layer.handle [as handle_request] (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n' +
+    '    at trim_prefix (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:328:13)\n' +
+    '    at D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:286:9\n' +
+    '    at Function.process_params (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:346:12)\n' +
+    '    at next (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:280:10)\n' +
+    '    at Function.handle (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:175:3)\n' +
+    '    at router (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:47:12)\n' +
+    '    at Layer.handle [as handle_request] (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)',
+  timestamp: '2026-04-02 11:48:22'
+}
+{
+  service: 'medical-diagnosis-api',
+  name: 'JsonWebTokenError',
+  message: 'Authentication error: jwt malformed',
+  level: 'error',
+  stack: 'JsonWebTokenError: jwt malformed\n' +
+    '    at module.exports [as verify] (D:\\Gen_AI_Project\\backend\\node_modules\\jsonwebtoken\\verify.js:70:17)\n' +
+    '    at authenticate (D:\\Gen_AI_Project\\backend\\middleware\\auth.js:21:25)\n' +
+    '    at Layer.handle [as handle_request] (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n' +
+    '    at trim_prefix (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:328:13)\n' +
+    '    at D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:286:9\n' +
+    '    at Function.process_params (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:346:12)\n' +
+    '    at next (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:280:10)\n' +
+    '    at Function.handle (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:175:3)\n' +
+    '    at router (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:47:12)\n' +
+    '    at Layer.handle [as handle_request] (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)',
+  timestamp: '2026-04-02 11:48:22'
+}
+{
+  service: 'medical-diagnosis-api',
+  name: 'JsonWebTokenError',
+  message: 'Authentication error: jwt malformed',
+  level: 'error',
+  stack: 'JsonWebTokenError: jwt malformed\n' +
+    '    at module.exports [as verify] (D:\\Gen_AI_Project\\backend\\node_modules\\jsonwebtoken\\verify.js:70:17)\n' +
+    '    at authenticate (D:\\Gen_AI_Project\\backend\\middleware\\auth.js:21:25)\n' +
+    '    at Layer.handle [as handle_request] (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n' +
+    '    at trim_prefix (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:328:13)\n' +
+    '    at D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:286:9\n' +
+    '    at Function.process_params (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:346:12)\n' +
+    '    at next (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:280:10)\n' +
+    '    at Function.handle (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:175:3)\n' +
+    '    at router (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:47:12)\n' +
+    '    at Layer.handle [as handle_request] (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)',
+  timestamp: '2026-04-02 11:48:54'
+}
+{
+  service: 'medical-diagnosis-api',
+  name: 'JsonWebTokenError',
+  message: 'Authentication error: jwt malformed',
+  level: 'error',
+  stack: 'JsonWebTokenError: jwt malformed\n' +
+    '    at module.exports [as verify] (D:\\Gen_AI_Project\\backend\\node_modules\\jsonwebtoken\\verify.js:70:17)\n' +
+    '    at authenticate (D:\\Gen_AI_Project\\backend\\middleware\\auth.js:21:25)\n' +
+    '    at Layer.handle [as handle_request] (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n' +
+    '    at trim_prefix (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:328:13)\n' +
+    '    at D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:286:9\n' +
+    '    at Function.process_params (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:346:12)\n' +
+    '    at next (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:280:10)\n' +
+    '    at Function.handle (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:175:3)\n' +
+    '    at router (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:47:12)\n' +
+    '    at Layer.handle [as handle_request] (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)',
+  timestamp: '2026-04-02 11:48:54'
+}
+{
+  service: 'medical-diagnosis-api',
+  name: 'JsonWebTokenError',
+  message: 'Authentication error: jwt malformed',
+  level: 'error',
+  stack: 'JsonWebTokenError: jwt malformed\n' +
+    '    at module.exports [as verify] (D:\\Gen_AI_Project\\backend\\node_modules\\jsonwebtoken\\verify.js:70:17)\n' +
+    '    at authenticate (D:\\Gen_AI_Project\\backend\\middleware\\auth.js:21:25)\n' +
+    '    at Layer.handle [as handle_request] (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n' +
+    '    at trim_prefix (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:328:13)\n' +
+    '    at D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:286:9\n' +
+    '    at Function.process_params (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:346:12)\n' +
+    '    at next (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:280:10)\n' +
+    '    at Function.handle (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:175:3)\n' +
+    '    at router (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:47:12)\n' +
+    '    at Layer.handle [as handle_request] (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)',
+  timestamp: '2026-04-02 11:49:07'
+}
+{
+  service: 'medical-diagnosis-api',
+  name: 'JsonWebTokenError',
+  message: 'Authentication error: jwt malformed',
+  level: 'error',
+  stack: 'JsonWebTokenError: jwt malformed\n' +
+    '    at module.exports [as verify] (D:\\Gen_AI_Project\\backend\\node_modules\\jsonwebtoken\\verify.js:70:17)\n' +
+    '    at authenticate (D:\\Gen_AI_Project\\backend\\middleware\\auth.js:21:25)\n' +
+    '    at Layer.handle [as handle_request] (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n' +
+    '    at trim_prefix (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:328:13)\n' +
+    '    at D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:286:9\n' +
+    '    at Function.process_params (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:346:12)\n' +
+    '    at next (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:280:10)\n' +
+    '    at Function.handle (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:175:3)\n' +
+    '    at router (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:47:12)\n' +
+    '    at Layer.handle [as handle_request] (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)',
+  timestamp: '2026-04-02 11:49:08'
+}
+{
+  service: 'medical-diagnosis-api',
+  name: 'JsonWebTokenError',
+  message: 'Authentication error: jwt malformed',
+  level: 'error',
+  stack: 'JsonWebTokenError: jwt malformed\n' +
+    '    at module.exports [as verify] (D:\\Gen_AI_Project\\backend\\node_modules\\jsonwebtoken\\verify.js:70:17)\n' +
+    '    at authenticate (D:\\Gen_AI_Project\\backend\\middleware\\auth.js:21:25)\n' +
+    '    at Layer.handle [as handle_request] (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n' +
+    '    at trim_prefix (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:328:13)\n' +
+    '    at D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:286:9\n' +
+    '    at Function.process_params (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:346:12)\n' +
+    '    at next (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:280:10)\n' +
+    '    at Function.handle (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:175:3)\n' +
+    '    at router (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:47:12)\n' +
+    '    at Layer.handle [as handle_request] (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)',
+  timestamp: '2026-04-02 12:54:34'
+}
+{
+  service: 'medical-diagnosis-api',
+  name: 'JsonWebTokenError',
+  message: 'Authentication error: jwt malformed',
+  level: 'error',
+  stack: 'JsonWebTokenError: jwt malformed\n' +
+    '    at module.exports [as verify] (D:\\Gen_AI_Project\\backend\\node_modules\\jsonwebtoken\\verify.js:70:17)\n' +
+    '    at authenticate (D:\\Gen_AI_Project\\backend\\middleware\\auth.js:21:25)\n' +
+    '    at Layer.handle [as handle_request] (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n' +
+    '    at trim_prefix (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:328:13)\n' +
+    '    at D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:286:9\n' +
+    '    at Function.process_params (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:346:12)\n' +
+    '    at next (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:280:10)\n' +
+    '    at Function.handle (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:175:3)\n' +
+    '    at router (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:47:12)\n' +
+    '    at Layer.handle [as handle_request] (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)',
+  timestamp: '2026-04-02 12:54:34'
+}
+{
+  message: {
+    error: "Cannot read properties of undefined (reading 'getPublicProfile')",
+    stack: "TypeError: Cannot read properties of undefined (reading 'getPublicProfile')\n" +
+      '    at D:\\Gen_AI_Project\\backend\\routes\\auth.js:203:22\n' +
+      '    at D:\\Gen_AI_Project\\backend\\middleware\\errorHandler.js:182:5\n' +
+      '    at Layer.handle [as handle_request] (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n' +
+      '    at next (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\route.js:149:13)\n' +
+      '    at Route.dispatch (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\route.js:119:3)\n' +
+      '    at Layer.handle [as handle_request] (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n' +
+      '    at D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:284:15\n' +
+      '    at Function.process_params (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:346:12)\n' +
+      '    at next (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:280:10)\n' +
+      '    at Function.handle (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:175:3)',
+    url: '/api/auth/verify',
+    method: 'GET',
+    ip: '::1',
+    userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Cursor/2.6.22 Chrome/142.0.7444.265 Electron/39.8.1 Safari/537.36',
+    user: 'anonymous'
+  },
+  level: 'error',
+  service: 'medical-diagnosis-api',
+  timestamp: '2026-04-02 14:52:12'
+}
+{
+  message: {
+    error: "Cannot read properties of undefined (reading 'getPublicProfile')",
+    stack: "TypeError: Cannot read properties of undefined (reading 'getPublicProfile')\n" +
+      '    at D:\\Gen_AI_Project\\backend\\routes\\auth.js:203:22\n' +
+      '    at D:\\Gen_AI_Project\\backend\\middleware\\errorHandler.js:182:5\n' +
+      '    at Layer.handle [as handle_request] (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n' +
+      '    at next (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\route.js:149:13)\n' +
+      '    at Route.dispatch (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\route.js:119:3)\n' +
+      '    at Layer.handle [as handle_request] (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n' +
+      '    at D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:284:15\n' +
+      '    at Function.process_params (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:346:12)\n' +
+      '    at next (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:280:10)\n' +
+      '    at Function.handle (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:175:3)',
+    url: '/api/auth/verify',
+    method: 'GET',
+    ip: '::1',
+    userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Cursor/2.6.22 Chrome/142.0.7444.265 Electron/39.8.1 Safari/537.36',
+    user: 'anonymous'
+  },
+  level: 'error',
+  service: 'medical-diagnosis-api',
+  timestamp: '2026-04-02 14:52:12'
+}
+{
+  message: {
+    error: "Cannot read properties of undefined (reading 'getPublicProfile')",
+    stack: "TypeError: Cannot read properties of undefined (reading 'getPublicProfile')\n" +
+      '    at D:\\Gen_AI_Project\\backend\\routes\\auth.js:203:22\n' +
+      '    at D:\\Gen_AI_Project\\backend\\middleware\\errorHandler.js:182:5\n' +
+      '    at Layer.handle [as handle_request] (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n' +
+      '    at next (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\route.js:149:13)\n' +
+      '    at Route.dispatch (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\route.js:119:3)\n' +
+      '    at Layer.handle [as handle_request] (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n' +
+      '    at D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:284:15\n' +
+      '    at Function.process_params (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:346:12)\n' +
+      '    at next (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:280:10)\n' +
+      '    at Function.handle (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:175:3)',
+    url: '/api/auth/verify',
+    method: 'GET',
+    ip: '::1',
+    userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0',
+    user: 'anonymous'
+  },
+  level: 'error',
+  service: 'medical-diagnosis-api',
+  timestamp: '2026-04-02 22:34:01'
+}
+{
+  message: {
+    error: "Cannot read properties of undefined (reading 'getPublicProfile')",
+    stack: "TypeError: Cannot read properties of undefined (reading 'getPublicProfile')\n" +
+      '    at D:\\Gen_AI_Project\\backend\\routes\\auth.js:203:22\n' +
+      '    at D:\\Gen_AI_Project\\backend\\middleware\\errorHandler.js:182:5\n' +
+      '    at Layer.handle [as handle_request] (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n' +
+      '    at next (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\route.js:149:13)\n' +
+      '    at Route.dispatch (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\route.js:119:3)\n' +
+      '    at Layer.handle [as handle_request] (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n' +
+      '    at D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:284:15\n' +
+      '    at Function.process_params (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:346:12)\n' +
+      '    at next (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:280:10)\n' +
+      '    at Function.handle (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:175:3)',
+    url: '/api/auth/verify',
+    method: 'GET',
+    ip: '::1',
+    userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0',
+    user: 'anonymous'
+  },
+  level: 'error',
+  service: 'medical-diagnosis-api',
+  timestamp: '2026-04-02 22:34:01'
+}
+{
+  service: 'medical-diagnosis-api',
+  name: 'JsonWebTokenError',
+  message: 'Authentication error: jwt malformed',
+  level: 'error',
+  stack: 'JsonWebTokenError: jwt malformed\n' +
+    '    at module.exports [as verify] (D:\\Gen_AI_Project\\backend\\node_modules\\jsonwebtoken\\verify.js:70:17)\n' +
+    '    at authenticate (D:\\Gen_AI_Project\\backend\\middleware\\auth.js:21:25)\n' +
+    '    at Layer.handle [as handle_request] (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n' +
+    '    at trim_prefix (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:328:13)\n' +
+    '    at D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:286:9\n' +
+    '    at Function.process_params (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:346:12)\n' +
+    '    at next (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:280:10)\n' +
+    '    at Function.handle (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:175:3)\n' +
+    '    at router (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:47:12)\n' +
+    '    at Layer.handle [as handle_request] (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)',
+  timestamp: '2026-04-02 22:34:17'
+}
+{
+  service: 'medical-diagnosis-api',
+  name: 'JsonWebTokenError',
+  message: 'Authentication error: jwt malformed',
+  level: 'error',
+  stack: 'JsonWebTokenError: jwt malformed\n' +
+    '    at module.exports [as verify] (D:\\Gen_AI_Project\\backend\\node_modules\\jsonwebtoken\\verify.js:70:17)\n' +
+    '    at authenticate (D:\\Gen_AI_Project\\backend\\middleware\\auth.js:21:25)\n' +
+    '    at Layer.handle [as handle_request] (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n' +
+    '    at trim_prefix (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:328:13)\n' +
+    '    at D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:286:9\n' +
+    '    at Function.process_params (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:346:12)\n' +
+    '    at next (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:280:10)\n' +
+    '    at Function.handle (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:175:3)\n' +
+    '    at router (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\index.js:47:12)\n' +
+    '    at Layer.handle [as handle_request] (D:\\Gen_AI_Project\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)',
+  timestamp: '2026-04-02 22:34:17'
+}
